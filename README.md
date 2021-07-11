@@ -1,2 +1,1 @@
-# pro-28
-EPIC ARCHERY stage 5
+# Project Template 28
